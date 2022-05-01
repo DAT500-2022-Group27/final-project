@@ -8,12 +8,13 @@ Github link: https://github.com/DAT500-2022-Group27/final-project
 ## Dataset
 
 We are using two different datasets for this project, one tick dataset, gathered from an API, and news data gathered from another API.
-The code for downloading these datsets are included here on github, but the datasets are also uploaded so you won't have to download them yourself through the API.
+The code for downloading these datsets are included here on github, but the datasets are also uploaded so you won't have to download them yourself through the API, though the TICK dataset is only a sample, given github restrictions for filesize.
 Both datasets are cleaned and aggregated by the hour.
 
 TICK dataset(TICKS_SAMPLE.zip):
   - Zipped: 68.3MB
-  - Unzipped: 10.5GB
+  - Unzipped: 764MB
+  - Complete non-sampled unzipped: 10.5GB
 
 News dataset(NEWS.zip):
   - Zipped: 35MB
